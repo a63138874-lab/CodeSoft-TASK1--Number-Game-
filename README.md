@@ -13,14 +13,14 @@ A simple and interactive console-based Number Guessing Game built using Java. Th
 
 🛠️ Technologies Used
 
-Java
-OOP Concepts
-Java Util Package (Random, Scanner)
+1.Java
+2.OOP Concepts
+3.Java Util Package (Random, Scanner)
 
 📂 Project Structure
 
-NumberGame.java
-README.md
+1.NumberGame.java
+2.README.md
 
 
 🎯 How to Play
