@@ -48,3 +48,7 @@ Score accumulates across multiple rounds
 2) GUI version using Java Swing
 3) High score storage using file handling
 4) Timer-based challenge mode
+
+   OUTPUT SAMPLE
+   <img width="857" height="876" alt="image" src="https://github.com/user-attachments/assets/a17efda3-2776-41c5-aaca-1a3a8044fa33" />
+
